@@ -1,7 +1,7 @@
 # PixelChest
 A wearable chest-mounted LED arcade game - PacMan -  powered by Arduino and a 16×32 programmable LED matrix
 
-![PixelChest Mockup](CONCEPT.jpg) <!-- Optional: replace with your image -->
+![PixelChest Mockup](CONCEPT.png) <!-- Optional: replace with your image -->
 
 ## Overview
 **PixelChest** is a wearable, chest-mounted LED game built around an **Arduino Uno R3** and a **16×32 programmable LED matrix**. Players can control a Pac-Man style game using **buttons mounted on a vest or belt**, creating a visually striking and interactive wearable experience. 
